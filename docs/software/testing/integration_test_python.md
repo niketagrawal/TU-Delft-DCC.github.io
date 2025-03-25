@@ -50,6 +50,10 @@ categories:
 
 This guide is to help you write a high level test for your code base. 
 
+This guide provides tips and examples to write integration tests for programs that take input and produce output.
+
+
+
 ### Look at your software from 100 feet above the ground
 
 When you are writing a high level test, you are looking at your software from 100 feet above the ground. You are not concerned about the nitty gritty details of the code, but you are concerned about the overall behavior of the software. 
